@@ -17,3 +17,5 @@ sudo apt-get update
 sudo apt-get install docker-ce -y
 sudo  apt-get install libmysqlclient-dev python3-dev -y
 sudo apt-get install mysql-client -y
+sudo apt-get install cmake -y
+
